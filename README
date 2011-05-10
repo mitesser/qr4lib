@@ -1,5 +1,6 @@
 ========================= Name und Verwendung =========================
 QR-Barcode Generatorpaket fuer Bibliotheken
+*
 * erzeugt Labels mit Text und Barcode 
 * zur Verlinkung auf elektronische Medien
 * zur Praesentation im Benutzerbereich, z.B. am Regal
