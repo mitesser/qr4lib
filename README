@@ -13,6 +13,9 @@ Lizenz:
 * Ruby (und einige Pakete, siehe Ruby Skripten)
 * LaTeX (und einige Pakete, siehe Latex Skript)
 ========================= Dateien =====================================
+apache2_vhost.conf
+* Beispielkonfiguration für einen auf apache2 basierenden Resolver.
+
 ebooksdata.ods 
 * Beispieldatenquelle (im OpenOffice Calc-Format)
 
