@@ -1,10 +1,6 @@
 # Ruby und einige Ruby-Bibliotheken muessen installiert sein
 # fuer Ubuntu 10.04 und Standard Ruby 1.8 z.B. folgende Befehle benutzen
-# sudo apt-get install ruby-full
-# sudo apt-get install rubygems
-# sudo apt-get install librqrcode-ruby
-# sudo apt-get install libmagickcore-dev
-# sudo apt-get install libmagickwand-dev imagemagick
+# sudo aptitude install ruby-full rubygems librqrcode-ruby libmagickcore-dev libmagickwand-dev imagemagick
 # sudo gem install rmagick
 
 # Parameter fuer QR Code
