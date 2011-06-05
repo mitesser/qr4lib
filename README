@@ -12,8 +12,8 @@ Email: oliver.mitesser@gmx.de
 Lizenz:
 
 ========================= benoetigte Software ==================================
-* LaTeX (Paket latex-make unter Ubuntu 10.04) (und einige Pakete, siehe Latex-
-  Skript)
+* LaTeX (Pakete latex-make und texlive-latex-extra unter Ubuntu 10.04)
+  (und einige Pakete, siehe Latex-Skript)
 * Ruby (und einige Pakete, siehe Ruby-Skript qrimages.rb)
 * OpenOffice.org Calc (andere Tabellenkalkulationen können auch
   funktionieren)
