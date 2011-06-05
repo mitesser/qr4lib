@@ -44,15 +44,13 @@ qrlabels.pdf
 * PDF-Datei mit den Labels
 * wird mit "pdflatex qrlabels.tex" erzeugt
 ========================= Verwendung ==================================
-1) Entpacke qrshelf.zip
-2) Passe graue Felder in Tablle "ebooks" von ebookdata.ods an
-3) Passe Parameter in Tabelle "parameter" von ebookdata.ods an
-4) Kopiere Spalte "Rubyinput" aus Tabelle "ebooks" in das Skript
-	qrimages.rb. Siehe Quellcode fuer Zielposition.
-5) $ruby qrimages.rb
-6) Kopiere Spalte "Latexbefehl" aus Tabelle "ebooks" in das Skript
-	qrlabels.tex. Siehe Quellcode fuer Zielposition.
-7) Endproduktion mit Hilfe der PDF-Datei qrlabel.pdf
+1) Passe graue Felder in Tabelle "ebooks" von ebookdata.ods an
+2) Passe Parameter in Tabelle "parameter" von ebookdata.ods an
+3) Kopiere Spalte "Rubyinput" aus Tabelle "ebooks" in das Skript
+   qrimages.rb. Siehe Quellcode fuer Zielposition.
+4) $ruby qrimages.rb
+5) Kopiere Spalte "Latexbefehl" aus Tabelle "ebooks" in das Skript
+   qrlabels.tex. Siehe Quellcode fuer Zielposition.
+6) Endproduktion mit Hilfe der PDF-Datei qrlabel.pdf
 =======================================================================
-
 
