@@ -12,7 +12,8 @@ Email: oliver.mitesser@gmx.de
 Lizenz:
 
 ========================= benoetigte Software ==================================
-* LaTeX (und einige Pakete, siehe Latex Skript)
+* LaTeX (Paket latex-make unter Ubuntu 10.04) (und einige Pakete, siehe Latex-
+  Skript)
 * Ruby (und einige Pakete, siehe Ruby-Skript qrimages.rb)
 * OpenOffice.org Calc (andere Tabellenkalkulationen können auch
   funktionieren)
@@ -57,6 +58,8 @@ qrlabels.pdf
 4) ruby qrimages.rb
 5) Kopiere Spalte "Latexbefehl" aus Tabelle "ebooks" in das Skript
    qrlabels.tex. Siehe Quellcode fuer Zielposition.
-6) Endproduktion mit Hilfe der PDF-Datei qrlabel.pdf
+6) Compilieren der LaTeX-Datei qrlabels.tex durch folgenden Befehl:
+   pdflatex qrlabels.tex
+7) Endproduktion durch Ausdruck der neu erstellten PDF-Datei qrlabels.pdf.
 ================================================================================
 
