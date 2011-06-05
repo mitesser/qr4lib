@@ -13,7 +13,7 @@ Lizenz:
 
 ========================= benoetigte Software ==================================
 * LaTeX (und einige Pakete, siehe Latex Skript)
-* Ruby (und einige Pakete, siehe Ruby Skripten)
+* Ruby (und einige Pakete, siehe Ruby-Skript qrimages.rb)
 * OpenOffice.org Calc (andere Tabellenkalkulationen können auch
   funktionieren)
 
@@ -53,8 +53,8 @@ qrlabels.pdf
 1) Passe graue Felder in Tabelle "ebooks" von ebookdata.ods an
 2) Passe Parameter in Tabelle "parameter" von ebookdata.ods an
 3) Kopiere Spalte "Rubyinput" aus Tabelle "ebooks" in das Skript
-   qrimages.rb. Siehe Quellcode fuer Zielposition.
-4) $ruby qrimages.rb
+   qrimages.rb. Siehe Quellcode fuer Zielposition (Zeile 28ff.).
+4) ruby qrimages.rb
 5) Kopiere Spalte "Latexbefehl" aus Tabelle "ebooks" in das Skript
    qrlabels.tex. Siehe Quellcode fuer Zielposition.
 6) Endproduktion mit Hilfe der PDF-Datei qrlabel.pdf
